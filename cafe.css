@@ -1,0 +1,183 @@
+
+.bg{
+    background-image: url(12.jpg);
+    background-size: cover;
+    scrollbar-darkshadow-color: aqua;
+}
+
+.cafe h5{
+    margin-left: 520px;
+    margin-top: 150px;
+    color: white;
+
+}
+.cafe h5:hover{
+    color: yellow;
+
+}
+
+
+.h h1{
+margin-top: 10px;
+margin-left: 520px; 
+margin-right: 590px;   
+font-weight: 900;
+font-style: oblique;
+color: white;
+
+}
+.h h1:hover{
+    background-color: teal;
+    color: red;
+}
+.para p{
+    margin-left: 370px;
+    margin-right: 280px;
+    color: white;
+}
+ .para p:hover{
+    background-color: teal;
+    color: black;
+ }
+ .btn button{
+    margin-left: 520px;
+    margin-right: 590px;
+    text-decoration: none;
+    background:none;
+    padding-top:5px ;
+    padding-bottom:5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 5px;
+    color: white;
+ }
+ .btn button:hover{
+    background-color: chocolate;
+    background-size: cover;
+    color: white;
+ }
+ .ft footer{
+    margin-top: 150px;
+    margin-left: 850px;
+    color: white;
+ }
+ .img img{
+    height: 380px;
+    width: 250px;
+    margin-left:270px ;
+    /* margin-top: 10px; */
+    border-radius:10px;
+    margin-top: -140px;
+    /* box-shadow: -10px gray; */
+ }
+ .img h4{
+    height: auto;
+    width: 150px;
+    font-size: 20px;
+    font-style: italic;
+    margin-left: 50px;
+    margin-top: 100px;
+ }
+ .img h3{
+    margin-left: 750px;
+    margin-top: -300px;
+    font-style: italic;
+    font: optional;
+ }
+ .img p{
+    margin-left: 750px;
+ }
+ .p h3{
+    margin-top: 250px;
+    width: 370px;
+    margin-left: 40px;
+ }
+ .p p {
+    width: 370px;
+    height: 370px;
+    margin-left: 40px;
+    margin-bottom: 200px;
+
+ }
+ .p img{
+    height: 380px;
+    width: 250px;
+    margin-left: 850px;
+    margin-top: -850px;
+    border-radius: 10px;
+    box-shadow: -40px -0px rgb(206, 204, 204);
+ }
+ .parag p{
+    margin-left: 630px;
+    font-size: 20px;
+    margin-top: -300px;
+    height: 250px;
+    width: 180px;
+ }
+ .background{
+background-image: url(17.jpg);
+background-size: cover;
+height: 800px;
+width: 1260px;
+margin-top: -150px;
+
+    
+ }
+ .background h4 {
+    margin-left: 208px;
+    height: 450px;
+    width: 450px;
+    font-style: italic;
+ }
+ .card{
+    margin-top: 40px !important;
+    float: left;
+    gap:0px !important;
+    background-size: cover;
+    /* word-spacing: 30px; */
+    margin-left: 20px;
+    
+ }
+ .deta{
+    width: 100%;
+    height: 470px;
+    
+    
+ }
+
+ .form{
+    width: 100%;
+    height: 1000px;
+    background-color: rgb(194, 189, 189);
+ }
+ .form h2{
+    text-align: center;
+    font-style: italic;
+ }
+ .form h4{
+    font-size: 20px;
+    margin-left: 400px;
+    margin-right: 300px;
+ }
+ .mb-3{
+    margin-left: 300px;
+    margin-right: 300px;
+ }
+ .btnr{
+    margin-left: 520px;
+    margin-right: 590px;
+    text-decoration: none;
+    background:none;
+    padding-top:5px ;
+    padding-bottom:5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 5px;
+    color: white;
+
+ }
+ .btnr:hover {
+      background-color: green;
+      color: aliceblue;
+      font-style: italic;
+ }
